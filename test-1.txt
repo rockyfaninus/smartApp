@@ -1,6 +1,9 @@
 This is a simple change to see how the splash doing.
 
 Continue doing change.
+Hi, try to do splash again
 
 Change from branch 001
 Hi, try to do splash again
+
+I want to have a change again.!
